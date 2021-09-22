@@ -1,0 +1,9 @@
+{
+	"name": "ADF-try",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "acb1c421-24f4-4c24-9ce8-631a30a5ab94",
+		"tenantId": "14098d09-5a58-4477-a612-f90ab47c3290"
+	}
+}
