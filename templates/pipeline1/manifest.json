@@ -1,8 +1,0 @@
-{
-	"name": "pipeline1",
-	"annotations": [],
-	"services": [
-		"Azure Data Factory"
-	],
-	"categories": []
-}
